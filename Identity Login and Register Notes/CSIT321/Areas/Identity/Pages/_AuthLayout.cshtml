@@ -1,0 +1,34 @@
+﻿@{
+    Layout = "/Views/Shared/_Layout.cshtml";
+}
+
+<div class="card text-center">
+    <div class="card-header">
+        <ul class="nav nav-tabs card-header-tabs">
+            <li class="nav-item">
+                <a class="nav-link" href="/Identity/Account/Login">Log In</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="/Identity/Account/Register">Register</a>
+            </li>
+        </ul>
+    </div>
+    <div class="card-body">
+            @RenderBody()
+    </div>
+</div>
+
+@section Scripts {
+    @await RenderSectionAsync("Scripts", required: false)
+    <script>
+        $(function(){
+            const currentPage = location.pathname; // is a JavaScript property that returns the path of the current URL, excluding the domain and query parameters.
+            $('.nav-tabs li a').each(function () { 
+                const $this = $(this)
+                if (currentPage.toLowerCase().indexOf($this.attr('href').toLowerCase()) !== -1){ 
+                    $this.addClass('active')
+                }
+            })
+        })
+    </script>
+}

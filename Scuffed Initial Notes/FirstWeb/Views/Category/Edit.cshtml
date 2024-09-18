@@ -1,0 +1,39 @@
+﻿@model Category
+<form method="post" asp-action="Edit">
+    @* asp-action="Edit" for explicit show of "action" *@
+    @* even if the asp-action is not coded it would directly link to action method base in the name *@
+    <div class="border p-3 mt-3">
+
+        <input type="hidden" asp-for="Id" /> <!-- Hidden input for Id -->
+        <div class="row pb-2">
+            <h2 class="text-light"> Edit Category </h2>
+        </div>
+        <div asp-validation-summary="All"></div>  @*CLIENT SIDE VALIDATION THAT DISPLAYS ALL!*@
+        <div class="mb-3">
+            <label asp-for="Name"></label>
+            <input asp-for="Name" class="form-control" />
+            <span asp-validation-for="Name" class="text-danger"></span> @*CLIENT SIDE VALIDATION*@
+        </div>
+        <div class="mb-3">
+            <label asp-for="DisplayOrder"></label>
+            <input asp-for="DisplayOrder" class="form-control" />
+            <span asp-validation-for="DisplayOrder" class="text-danger"></span> @*CLIENT SIDE VALIDATION*@
+        </div>
+        <div class="mb-3">
+            <label asp-for="MyProperty"></label>
+            <input asp-for="MyProperty" class="form-control" />
+            <span asp-validation-for="MyProperty" class="text-danger"></span> @*CLIENT SIDE VALIDATION*@
+        </div>
+        <button type="submit" class="btn btn-primary" style="width:150px">Update</button>
+        <a asp-controller="Category" asp-action="Index" class="btn btn-secondary" style="width:150px">Back to List</a>
+    </div>
+</form>
+@*Client side validation without refreshing the page, the " _ValidationScriptsPartial.cshtml " is base on the file in:
+    Shared -> _ValidationScriptsPartial.cshtml
+    which contains a js validation
+*@
+@section Scripts {
+    @{
+        <partial name="_ValidationScriptsPartial" />
+    }
+}

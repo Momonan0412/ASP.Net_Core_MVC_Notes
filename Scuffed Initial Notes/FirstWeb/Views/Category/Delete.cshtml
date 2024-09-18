@@ -1,0 +1,41 @@
+﻿@model Category
+@*
+        <form method="post" asp-action="DeleteDataHandler">
+        because of this ->
+        [HttpPost, ActionName("Delete")]
+        you can directly call the DeleteDataHandler Action Method
+*@
+<form method="post">
+    @* asp-action="Edit" for explicit show of "action" *@
+    @* even if the asp-action is not coded it would directly link to action method base in the name *@
+    <div class="border p-3 mt-3">
+
+        <input type="hidden" asp-for="Id" /> <!-- Hidden input for Id -->
+        <div class="row pb-2">
+            <h2 class="text-light"> Delete Category </h2>
+        </div>
+        <div class="mb-3">
+            <label asp-for="Name"></label>
+            <input asp-for="Name" class="form-control" readonly />
+        </div>
+        <div class="mb-3">
+            <label asp-for="DisplayOrder"></label>
+            <input asp-for="DisplayOrder" class="form-control" readonly />
+        </div>
+        <div class="mb-3">
+            <label asp-for="MyProperty"></label>
+            <input asp-for="MyProperty" class="form-control" readonly />
+        </div>
+        <button type="submit" class="btn btn-danger" style="width:150px">Delete</button>
+        <a asp-controller="Category" asp-action="Index" class="btn btn-secondary" style="width:150px">Back to List</a>
+    </div>
+</form>
+@*Client side validation without refreshing the page, the " _ValidationScriptsPartial.cshtml " is base on the file in:
+    Shared -> _ValidationScriptsPartial.cshtml
+    which contains a js validation
+*@
+@section Scripts {
+    @{
+        <partial name="_ValidationScriptsPartial" />
+    }
+}

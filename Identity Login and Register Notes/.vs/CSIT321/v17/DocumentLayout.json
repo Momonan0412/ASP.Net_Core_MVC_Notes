@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\avril\\source\\repos\\CSIT321\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{81D44467-48AE-44BB-9008-F39CAB898233}|CSIT321\\CSIT321.csproj|c:\\users\\avril\\source\\repos\\csit321\\csit321\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81D44467-48AE-44BB-9008-F39CAB898233}|CSIT321\\CSIT321.csproj|solutionrelative:csit321\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81D44467-48AE-44BB-9008-F39CAB898233}|CSIT321\\CSIT321.csproj|c:\\users\\avril\\source\\repos\\csit321\\csit321\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81D44467-48AE-44BB-9008-F39CAB898233}|CSIT321\\CSIT321.csproj|solutionrelative:csit321\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81D44467-48AE-44BB-9008-F39CAB898233}|CSIT321\\CSIT321.csproj|c:\\users\\avril\\source\\repos\\csit321\\csit321\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{81D44467-48AE-44BB-9008-F39CAB898233}|CSIT321\\CSIT321.csproj|solutionrelative:csit321\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81D44467-48AE-44BB-9008-F39CAB898233}|CSIT321\\CSIT321.csproj|c:\\users\\avril\\source\\repos\\csit321\\csit321\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81D44467-48AE-44BB-9008-F39CAB898233}|CSIT321\\CSIT321.csproj|solutionrelative:csit321\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81D44467-48AE-44BB-9008-F39CAB898233}|CSIT321\\CSIT321.csproj|c:\\users\\avril\\source\\repos\\csit321\\csit321\\areas\\identity\\data\\userauthentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81D44467-48AE-44BB-9008-F39CAB898233}|CSIT321\\CSIT321.csproj|solutionrelative:csit321\\areas\\identity\\data\\userauthentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81D44467-48AE-44BB-9008-F39CAB898233}|CSIT321\\CSIT321.csproj|c:\\users\\avril\\source\\repos\\csit321\\csit321\\areas\\identity\\data\\authenticationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81D44467-48AE-44BB-9008-F39CAB898233}|CSIT321\\CSIT321.csproj|solutionrelative:csit321\\areas\\identity\\data\\authenticationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81D44467-48AE-44BB-9008-F39CAB898233}|CSIT321\\CSIT321.csproj|c:\\users\\avril\\source\\repos\\csit321\\csit321\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{81D44467-48AE-44BB-9008-F39CAB898233}|CSIT321\\CSIT321.csproj|solutionrelative:csit321\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81D44467-48AE-44BB-9008-F39CAB898233}|CSIT321\\CSIT321.csproj|c:\\users\\avril\\source\\repos\\csit321\\csit321\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81D44467-48AE-44BB-9008-F39CAB898233}|CSIT321\\CSIT321.csproj|solutionrelative:csit321\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81D44467-48AE-44BB-9008-F39CAB898233}|CSIT321\\CSIT321.csproj|c:\\users\\avril\\source\\repos\\csit321\\csit321\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{81D44467-48AE-44BB-9008-F39CAB898233}|CSIT321\\CSIT321.csproj|solutionrelative:csit321\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\avril\\source\\repos\\CSIT321\\CSIT321\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "CSIT321\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\avril\\source\\repos\\CSIT321\\CSIT321\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "CSIT321\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAuwFgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T03:26:54.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthenticationDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\avril\\source\\repos\\CSIT321\\CSIT321\\Areas\\Identity\\Data\\AuthenticationDBContext.cs",
+              "RelativeDocumentMoniker": "CSIT321\\Areas\\Identity\\Data\\AuthenticationDBContext.cs",
+              "ToolTip": "C:\\Users\\avril\\source\\repos\\CSIT321\\CSIT321\\Areas\\Identity\\Data\\AuthenticationDBContext.cs",
+              "RelativeToolTip": "CSIT321\\Areas\\Identity\\Data\\AuthenticationDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T03:16:20.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserAuthentication.cs",
+              "DocumentMoniker": "C:\\Users\\avril\\source\\repos\\CSIT321\\CSIT321\\Areas\\Identity\\Data\\UserAuthentication.cs",
+              "RelativeDocumentMoniker": "CSIT321\\Areas\\Identity\\Data\\UserAuthentication.cs",
+              "ToolTip": "C:\\Users\\avril\\source\\repos\\CSIT321\\CSIT321\\Areas\\Identity\\Data\\UserAuthentication.cs",
+              "RelativeToolTip": "CSIT321\\Areas\\Identity\\Data\\UserAuthentication.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T03:13:56.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\avril\\source\\repos\\CSIT321\\CSIT321\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "CSIT321\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\avril\\source\\repos\\CSIT321\\CSIT321\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "CSIT321\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAtwHYAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T10:17:56.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\avril\\source\\repos\\CSIT321\\CSIT321\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "CSIT321\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\avril\\source\\repos\\CSIT321\\CSIT321\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "CSIT321\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-15T15:01:38.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\avril\\source\\repos\\CSIT321\\CSIT321\\Program.cs",
+              "RelativeDocumentMoniker": "CSIT321\\Program.cs",
+              "ToolTip": "C:\\Users\\avril\\source\\repos\\CSIT321\\CSIT321\\Program.cs",
+              "RelativeToolTip": "CSIT321\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAABcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T13:16:16.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\avril\\source\\repos\\CSIT321\\CSIT321\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CSIT321\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\avril\\source\\repos\\CSIT321\\CSIT321\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CSIT321\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABUAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-15T15:15:02.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\avril\\source\\repos\\CSIT321\\CSIT321\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "CSIT321\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\avril\\source\\repos\\CSIT321\\CSIT321\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "CSIT321\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAuwAoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T13:22:42.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\avril\\source\\repos\\CSIT321\\CSIT321\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "CSIT321\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\avril\\source\\repos\\CSIT321\\CSIT321\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "CSIT321\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-15T13:23:10.251Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
