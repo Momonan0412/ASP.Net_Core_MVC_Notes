@@ -9,7 +9,7 @@ using Microsoft.AspNetCore.Identity;
 namespace CSIT321.Areas.Identity.Data;
 
 // Add profile data for application users by adding properties to the UserAuthentication class
-public class UserAuthentication : IdentityUser
+public class UserApplication : IdentityUser
 {
     [Required]
     [PersonalData]

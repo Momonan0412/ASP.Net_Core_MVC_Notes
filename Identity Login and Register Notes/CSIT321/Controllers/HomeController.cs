@@ -12,9 +12,9 @@ namespace CSIT321.Controllers
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
-        private readonly UserManager<UserAuthentication> _userManager;
+        private readonly UserManager<UserApplication> _userManager;
 
-        public HomeController(ILogger<HomeController> logger, UserManager<UserAuthentication> userManager)
+        public HomeController(ILogger<HomeController> logger, UserManager<UserApplication> userManager)
         {
             _logger = logger;
             this._userManager = userManager;

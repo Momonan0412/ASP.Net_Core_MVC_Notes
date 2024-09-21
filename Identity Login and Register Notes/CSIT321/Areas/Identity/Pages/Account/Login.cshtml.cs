@@ -20,10 +20,10 @@ namespace CSIT321.Areas.Identity.Pages.Account
 {
     public class LoginModel : PageModel
     {
-        private readonly SignInManager<UserAuthentication> _signInManager;
+        private readonly SignInManager<UserApplication> _signInManager;
         private readonly ILogger<LoginModel> _logger;
 
-        public LoginModel(SignInManager<UserAuthentication> signInManager, ILogger<LoginModel> logger)
+        public LoginModel(SignInManager<UserApplication> signInManager, ILogger<LoginModel> logger)
         {
             _signInManager = signInManager;
             _logger = logger;

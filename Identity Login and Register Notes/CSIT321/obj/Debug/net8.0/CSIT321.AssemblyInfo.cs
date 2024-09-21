@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CSIT321")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+25b96758bd77db6e15be4b268050a47b024b52cc")]
 [assembly: System.Reflection.AssemblyProductAttribute("CSIT321")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CSIT321")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

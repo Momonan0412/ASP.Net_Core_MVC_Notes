@@ -1,41 +1,41 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\avril\\OneDrive\\Documents\\ASP.NET\\ASP.NET.Notes\\",
+  "WorkspaceRootPath": "C:\\Users\\avril\\OneDrive\\Documents\\ASP.NET\\Scuffed Initial Notes\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AE8D3A9B-7C93-4F69-AF9D-FE5C7F403DD6}|FirstWeb\\FirstWeb.csproj|c:\\users\\avril\\onedrive\\documents\\asp.net\\asp.net.notes\\firstweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{AE8D3A9B-7C93-4F69-AF9D-FE5C7F403DD6}|FirstWeb\\FirstWeb.csproj|c:\\users\\avril\\onedrive\\documents\\asp.net\\scuffed initial notes\\firstweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{AE8D3A9B-7C93-4F69-AF9D-FE5C7F403DD6}|FirstWeb\\FirstWeb.csproj|solutionrelative:firstweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE8D3A9B-7C93-4F69-AF9D-FE5C7F403DD6}|FirstWeb\\FirstWeb.csproj|c:\\users\\avril\\onedrive\\documents\\asp.net\\asp.net.notes\\firstweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AE8D3A9B-7C93-4F69-AF9D-FE5C7F403DD6}|FirstWeb\\FirstWeb.csproj|c:\\users\\avril\\onedrive\\documents\\asp.net\\scuffed initial notes\\firstweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AE8D3A9B-7C93-4F69-AF9D-FE5C7F403DD6}|FirstWeb\\FirstWeb.csproj|solutionrelative:firstweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE8D3A9B-7C93-4F69-AF9D-FE5C7F403DD6}|FirstWeb\\FirstWeb.csproj|c:\\users\\avril\\onedrive\\documents\\asp.net\\asp.net.notes\\firstweb\\areas\\identity\\data\\userauthentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AE8D3A9B-7C93-4F69-AF9D-FE5C7F403DD6}|FirstWeb\\FirstWeb.csproj|c:\\users\\avril\\onedrive\\documents\\asp.net\\scuffed initial notes\\firstweb\\areas\\identity\\data\\userauthentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AE8D3A9B-7C93-4F69-AF9D-FE5C7F403DD6}|FirstWeb\\FirstWeb.csproj|solutionrelative:firstweb\\areas\\identity\\data\\userauthentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE8D3A9B-7C93-4F69-AF9D-FE5C7F403DD6}|FirstWeb\\FirstWeb.csproj|c:\\users\\avril\\onedrive\\documents\\asp.net\\asp.net.notes\\firstweb\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AE8D3A9B-7C93-4F69-AF9D-FE5C7F403DD6}|FirstWeb\\FirstWeb.csproj|c:\\users\\avril\\onedrive\\documents\\asp.net\\scuffed initial notes\\firstweb\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AE8D3A9B-7C93-4F69-AF9D-FE5C7F403DD6}|FirstWeb\\FirstWeb.csproj|solutionrelative:firstweb\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE8D3A9B-7C93-4F69-AF9D-FE5C7F403DD6}|FirstWeb\\FirstWeb.csproj|c:\\users\\avril\\onedrive\\documents\\asp.net\\asp.net.notes\\firstweb\\areas\\identity\\data\\authenticationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AE8D3A9B-7C93-4F69-AF9D-FE5C7F403DD6}|FirstWeb\\FirstWeb.csproj|c:\\users\\avril\\onedrive\\documents\\asp.net\\scuffed initial notes\\firstweb\\areas\\identity\\data\\authenticationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AE8D3A9B-7C93-4F69-AF9D-FE5C7F403DD6}|FirstWeb\\FirstWeb.csproj|solutionrelative:firstweb\\areas\\identity\\data\\authenticationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE8D3A9B-7C93-4F69-AF9D-FE5C7F403DD6}|FirstWeb\\FirstWeb.csproj|c:\\users\\avril\\onedrive\\documents\\asp.net\\asp.net.notes\\firstweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AE8D3A9B-7C93-4F69-AF9D-FE5C7F403DD6}|FirstWeb\\FirstWeb.csproj|c:\\users\\avril\\onedrive\\documents\\asp.net\\scuffed initial notes\\firstweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AE8D3A9B-7C93-4F69-AF9D-FE5C7F403DD6}|FirstWeb\\FirstWeb.csproj|solutionrelative:firstweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE8D3A9B-7C93-4F69-AF9D-FE5C7F403DD6}|FirstWeb\\FirstWeb.csproj|c:\\users\\avril\\onedrive\\documents\\asp.net\\asp.net.notes\\firstweb\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AE8D3A9B-7C93-4F69-AF9D-FE5C7F403DD6}|FirstWeb\\FirstWeb.csproj|c:\\users\\avril\\onedrive\\documents\\asp.net\\scuffed initial notes\\firstweb\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AE8D3A9B-7C93-4F69-AF9D-FE5C7F403DD6}|FirstWeb\\FirstWeb.csproj|solutionrelative:firstweb\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE8D3A9B-7C93-4F69-AF9D-FE5C7F403DD6}|FirstWeb\\FirstWeb.csproj|c:\\users\\avril\\onedrive\\documents\\asp.net\\asp.net.notes\\firstweb\\firstweb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{AE8D3A9B-7C93-4F69-AF9D-FE5C7F403DD6}|FirstWeb\\FirstWeb.csproj|c:\\users\\avril\\onedrive\\documents\\asp.net\\scuffed initial notes\\firstweb\\firstweb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{AE8D3A9B-7C93-4F69-AF9D-FE5C7F403DD6}|FirstWeb\\FirstWeb.csproj|solutionrelative:firstweb\\firstweb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE8D3A9B-7C93-4F69-AF9D-FE5C7F403DD6}|FirstWeb\\FirstWeb.csproj|c:\\users\\avril\\onedrive\\documents\\asp.net\\asp.net.notes\\firstweb\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{AE8D3A9B-7C93-4F69-AF9D-FE5C7F403DD6}|FirstWeb\\FirstWeb.csproj|c:\\users\\avril\\onedrive\\documents\\asp.net\\scuffed initial notes\\firstweb\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{AE8D3A9B-7C93-4F69-AF9D-FE5C7F403DD6}|FirstWeb\\FirstWeb.csproj|solutionrelative:firstweb\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
@@ -56,9 +56,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\avril\\OneDrive\\Documents\\ASP.NET\\ASP.NET.Notes\\FirstWeb\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\avril\\OneDrive\\Documents\\ASP.NET\\Scuffed Initial Notes\\FirstWeb\\appsettings.json",
               "RelativeDocumentMoniker": "FirstWeb\\appsettings.json",
-              "ToolTip": "C:\\Users\\avril\\OneDrive\\Documents\\ASP.NET\\ASP.NET.Notes\\FirstWeb\\appsettings.json",
+              "ToolTip": "C:\\Users\\avril\\OneDrive\\Documents\\ASP.NET\\Scuffed Initial Notes\\FirstWeb\\appsettings.json",
               "RelativeToolTip": "FirstWeb\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -69,22 +69,21 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\avril\\OneDrive\\Documents\\ASP.NET\\ASP.NET.Notes\\FirstWeb\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\avril\\OneDrive\\Documents\\ASP.NET\\Scuffed Initial Notes\\FirstWeb\\Program.cs",
               "RelativeDocumentMoniker": "FirstWeb\\Program.cs",
-              "ToolTip": "C:\\Users\\avril\\OneDrive\\Documents\\ASP.NET\\ASP.NET.Notes\\FirstWeb\\Program.cs",
+              "ToolTip": "C:\\Users\\avril\\OneDrive\\Documents\\ASP.NET\\Scuffed Initial Notes\\FirstWeb\\Program.cs",
               "RelativeToolTip": "FirstWeb\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T11:43:33.418Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-15T11:43:33.418Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\avril\\OneDrive\\Documents\\ASP.NET\\ASP.NET.Notes\\FirstWeb\\Models\\Category.cs",
+              "DocumentMoniker": "C:\\Users\\avril\\OneDrive\\Documents\\ASP.NET\\Scuffed Initial Notes\\FirstWeb\\Models\\Category.cs",
               "RelativeDocumentMoniker": "FirstWeb\\Models\\Category.cs",
-              "ToolTip": "C:\\Users\\avril\\OneDrive\\Documents\\ASP.NET\\ASP.NET.Notes\\FirstWeb\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\avril\\OneDrive\\Documents\\ASP.NET\\Scuffed Initial Notes\\FirstWeb\\Models\\Category.cs",
               "RelativeToolTip": "FirstWeb\\Models\\Category.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -94,9 +93,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "UserAuthentication.cs",
-              "DocumentMoniker": "C:\\Users\\avril\\OneDrive\\Documents\\ASP.NET\\ASP.NET.Notes\\FirstWeb\\Areas\\Identity\\Data\\UserAuthentication.cs",
+              "DocumentMoniker": "C:\\Users\\avril\\OneDrive\\Documents\\ASP.NET\\Scuffed Initial Notes\\FirstWeb\\Areas\\Identity\\Data\\UserAuthentication.cs",
               "RelativeDocumentMoniker": "FirstWeb\\Areas\\Identity\\Data\\UserAuthentication.cs",
-              "ToolTip": "C:\\Users\\avril\\OneDrive\\Documents\\ASP.NET\\ASP.NET.Notes\\FirstWeb\\Areas\\Identity\\Data\\UserAuthentication.cs",
+              "ToolTip": "C:\\Users\\avril\\OneDrive\\Documents\\ASP.NET\\Scuffed Initial Notes\\FirstWeb\\Areas\\Identity\\Data\\UserAuthentication.cs",
               "RelativeToolTip": "FirstWeb\\Areas\\Identity\\Data\\UserAuthentication.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -106,9 +105,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "AuthenticationDBContext.cs",
-              "DocumentMoniker": "C:\\Users\\avril\\OneDrive\\Documents\\ASP.NET\\ASP.NET.Notes\\FirstWeb\\Areas\\Identity\\Data\\AuthenticationDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\avril\\OneDrive\\Documents\\ASP.NET\\Scuffed Initial Notes\\FirstWeb\\Areas\\Identity\\Data\\AuthenticationDBContext.cs",
               "RelativeDocumentMoniker": "FirstWeb\\Areas\\Identity\\Data\\AuthenticationDBContext.cs",
-              "ToolTip": "C:\\Users\\avril\\OneDrive\\Documents\\ASP.NET\\ASP.NET.Notes\\FirstWeb\\Areas\\Identity\\Data\\AuthenticationDBContext.cs",
+              "ToolTip": "C:\\Users\\avril\\OneDrive\\Documents\\ASP.NET\\Scuffed Initial Notes\\FirstWeb\\Areas\\Identity\\Data\\AuthenticationDBContext.cs",
               "RelativeToolTip": "FirstWeb\\Areas\\Identity\\Data\\AuthenticationDBContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -118,9 +117,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\avril\\OneDrive\\Documents\\ASP.NET\\ASP.NET.Notes\\FirstWeb\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\avril\\OneDrive\\Documents\\ASP.NET\\Scuffed Initial Notes\\FirstWeb\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "FirstWeb\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\avril\\OneDrive\\Documents\\ASP.NET\\ASP.NET.Notes\\FirstWeb\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\avril\\OneDrive\\Documents\\ASP.NET\\Scuffed Initial Notes\\FirstWeb\\Controllers\\HomeController.cs",
               "RelativeToolTip": "FirstWeb\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -130,9 +129,9 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "CategoryController.cs",
-              "DocumentMoniker": "C:\\Users\\avril\\OneDrive\\Documents\\ASP.NET\\ASP.NET.Notes\\FirstWeb\\Controllers\\CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\avril\\OneDrive\\Documents\\ASP.NET\\Scuffed Initial Notes\\FirstWeb\\Controllers\\CategoryController.cs",
               "RelativeDocumentMoniker": "FirstWeb\\Controllers\\CategoryController.cs",
-              "ToolTip": "C:\\Users\\avril\\OneDrive\\Documents\\ASP.NET\\ASP.NET.Notes\\FirstWeb\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\avril\\OneDrive\\Documents\\ASP.NET\\Scuffed Initial Notes\\FirstWeb\\Controllers\\CategoryController.cs",
               "RelativeToolTip": "FirstWeb\\Controllers\\CategoryController.cs",
               "ViewState": "AgIAABoAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -142,9 +141,9 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "ScaffoldingReadMe.txt",
-              "DocumentMoniker": "C:\\Users\\avril\\OneDrive\\Documents\\ASP.NET\\ASP.NET.Notes\\FirstWeb\\ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\avril\\OneDrive\\Documents\\ASP.NET\\Scuffed Initial Notes\\FirstWeb\\ScaffoldingReadMe.txt",
               "RelativeDocumentMoniker": "FirstWeb\\ScaffoldingReadMe.txt",
-              "ToolTip": "C:\\Users\\avril\\OneDrive\\Documents\\ASP.NET\\ASP.NET.Notes\\FirstWeb\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\avril\\OneDrive\\Documents\\ASP.NET\\Scuffed Initial Notes\\FirstWeb\\ScaffoldingReadMe.txt",
               "RelativeToolTip": "FirstWeb\\ScaffoldingReadMe.txt",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
@@ -154,9 +153,9 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "FirstWeb.csproj",
-              "DocumentMoniker": "C:\\Users\\avril\\OneDrive\\Documents\\ASP.NET\\ASP.NET.Notes\\FirstWeb\\FirstWeb.csproj",
+              "DocumentMoniker": "C:\\Users\\avril\\OneDrive\\Documents\\ASP.NET\\Scuffed Initial Notes\\FirstWeb\\FirstWeb.csproj",
               "RelativeDocumentMoniker": "FirstWeb\\FirstWeb.csproj",
-              "ToolTip": "C:\\Users\\avril\\OneDrive\\Documents\\ASP.NET\\ASP.NET.Notes\\FirstWeb\\FirstWeb.csproj",
+              "ToolTip": "C:\\Users\\avril\\OneDrive\\Documents\\ASP.NET\\Scuffed Initial Notes\\FirstWeb\\FirstWeb.csproj",
               "RelativeToolTip": "FirstWeb\\FirstWeb.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",

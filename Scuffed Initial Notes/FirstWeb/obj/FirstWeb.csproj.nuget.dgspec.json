@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\avril\\OneDrive\\Documents\\ASP.NET\\ASP.NET.Notes\\FirstWeb\\FirstWeb.csproj": {}
+    "C:\\Users\\avril\\OneDrive\\Documents\\ASP.NET\\Scuffed Initial Notes\\FirstWeb\\FirstWeb.csproj": {}
   },
   "projects": {
-    "C:\\Users\\avril\\OneDrive\\Documents\\ASP.NET\\ASP.NET.Notes\\FirstWeb\\FirstWeb.csproj": {
+    "C:\\Users\\avril\\OneDrive\\Documents\\ASP.NET\\Scuffed Initial Notes\\FirstWeb\\FirstWeb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\avril\\OneDrive\\Documents\\ASP.NET\\ASP.NET.Notes\\FirstWeb\\FirstWeb.csproj",
+        "projectUniqueName": "C:\\Users\\avril\\OneDrive\\Documents\\ASP.NET\\Scuffed Initial Notes\\FirstWeb\\FirstWeb.csproj",
         "projectName": "FirstWeb",
-        "projectPath": "C:\\Users\\avril\\OneDrive\\Documents\\ASP.NET\\ASP.NET.Notes\\FirstWeb\\FirstWeb.csproj",
+        "projectPath": "C:\\Users\\avril\\OneDrive\\Documents\\ASP.NET\\Scuffed Initial Notes\\FirstWeb\\FirstWeb.csproj",
         "packagesPath": "C:\\Users\\avril\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\avril\\OneDrive\\Documents\\ASP.NET\\ASP.NET.Notes\\FirstWeb\\obj\\",
+        "outputPath": "C:\\Users\\avril\\OneDrive\\Documents\\ASP.NET\\Scuffed Initial Notes\\FirstWeb\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\avril\\AppData\\Roaming\\NuGet\\NuGet.Config",

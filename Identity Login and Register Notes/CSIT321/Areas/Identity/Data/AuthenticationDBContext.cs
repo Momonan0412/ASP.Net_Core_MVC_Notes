@@ -5,7 +5,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace CSIT321.Data;
 
-public class AuthenticationDBContext : IdentityDbContext<UserAuthentication>
+public class AuthenticationDBContext : IdentityDbContext<UserApplication>
 {
     public AuthenticationDBContext(DbContextOptions<AuthenticationDBContext> options)
         : base(options)

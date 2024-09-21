@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sY+tjvlR5DM=",
+  "dgSpecHash": "iowaa5Qsf4E=",
   "success": true,
-  "projectFilePath": "C:\\Users\\avril\\source\\repos\\CSIT321\\CSIT321\\CSIT321.csproj",
+  "projectFilePath": "C:\\Users\\avril\\OneDrive\\Documents\\ASP.NET\\Identity Login and Register Notes\\CSIT321\\CSIT321.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\avril\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\avril\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

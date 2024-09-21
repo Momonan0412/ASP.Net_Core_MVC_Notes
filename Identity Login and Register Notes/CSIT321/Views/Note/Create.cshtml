@@ -1,0 +1,50 @@
+﻿@model CSIT321.Models.Note
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>Note</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create" autocomplete="off">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="noteTitle" class="control-label"></label>
+                <input asp-for="noteTitle" class="form-control" />
+                <span asp-validation-for="noteTitle" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="noteContent" class="control-label"></label>
+                <textarea asp-for="noteContent" class="form-control"></textarea>
+                <span asp-validation-for="noteContent" class="text-danger"></span>
+            </div>
+            @*
+            <div class="form-group">
+                <label asp-for="createdDate" class="control-label"></label>
+                <input asp-for="createdDate" class="form-control" />
+                <span asp-validation-for="createdDate" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="updatedDate" class="control-label"></label>
+                <input asp-for="updatedDate" class="form-control" />
+                <span asp-validation-for="updatedDate" class="text-danger"></span>
+            </div>
+            *@
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

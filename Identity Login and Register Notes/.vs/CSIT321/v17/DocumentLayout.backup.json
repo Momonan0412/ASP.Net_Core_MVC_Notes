@@ -1,42 +1,105 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\avril\\source\\repos\\CSIT321\\",
+  "WorkspaceRootPath": "C:\\Users\\avril\\OneDrive\\Documents\\ASP.NET\\Identity Login and Register Notes\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{81D44467-48AE-44BB-9008-F39CAB898233}|CSIT321\\CSIT321.csproj|c:\\users\\avril\\source\\repos\\csit321\\csit321\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81D44467-48AE-44BB-9008-F39CAB898233}|CSIT321\\CSIT321.csproj|solutionrelative:csit321\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{81D44467-48AE-44BB-9008-F39CAB898233}|CSIT321\\CSIT321.csproj|c:\\users\\avril\\onedrive\\documents\\asp.net\\identity login and register notes\\csit321\\views\\note\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{81D44467-48AE-44BB-9008-F39CAB898233}|CSIT321\\CSIT321.csproj|solutionrelative:csit321\\views\\note\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{81D44467-48AE-44BB-9008-F39CAB898233}|CSIT321\\CSIT321.csproj|c:\\users\\avril\\source\\repos\\csit321\\csit321\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81D44467-48AE-44BB-9008-F39CAB898233}|CSIT321\\CSIT321.csproj|solutionrelative:csit321\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{81D44467-48AE-44BB-9008-F39CAB898233}|CSIT321\\CSIT321.csproj|c:\\users\\avril\\onedrive\\documents\\asp.net\\identity login and register notes\\csit321\\views\\note\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{81D44467-48AE-44BB-9008-F39CAB898233}|CSIT321\\CSIT321.csproj|solutionrelative:csit321\\views\\note\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{81D44467-48AE-44BB-9008-F39CAB898233}|CSIT321\\CSIT321.csproj|c:\\users\\avril\\source\\repos\\csit321\\csit321\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{81D44467-48AE-44BB-9008-F39CAB898233}|CSIT321\\CSIT321.csproj|solutionrelative:csit321\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{81D44467-48AE-44BB-9008-F39CAB898233}|CSIT321\\CSIT321.csproj|c:\\users\\avril\\onedrive\\documents\\asp.net\\identity login and register notes\\csit321\\controllers\\notecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81D44467-48AE-44BB-9008-F39CAB898233}|CSIT321\\CSIT321.csproj|solutionrelative:csit321\\controllers\\notecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{81D44467-48AE-44BB-9008-F39CAB898233}|CSIT321\\CSIT321.csproj|c:\\users\\avril\\source\\repos\\csit321\\csit321\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{81D44467-48AE-44BB-9008-F39CAB898233}|CSIT321\\CSIT321.csproj|c:\\users\\avril\\onedrive\\documents\\asp.net\\identity login and register notes\\csit321\\views\\note\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{81D44467-48AE-44BB-9008-F39CAB898233}|CSIT321\\CSIT321.csproj|solutionrelative:csit321\\views\\note\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81D44467-48AE-44BB-9008-F39CAB898233}|CSIT321\\CSIT321.csproj|c:\\users\\avril\\onedrive\\documents\\asp.net\\identity login and register notes\\csit321\\views\\note\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{81D44467-48AE-44BB-9008-F39CAB898233}|CSIT321\\CSIT321.csproj|solutionrelative:csit321\\views\\note\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81D44467-48AE-44BB-9008-F39CAB898233}|CSIT321\\CSIT321.csproj|c:\\users\\avril\\onedrive\\documents\\asp.net\\identity login and register notes\\csit321\\views\\note\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{81D44467-48AE-44BB-9008-F39CAB898233}|CSIT321\\CSIT321.csproj|solutionrelative:csit321\\views\\note\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81D44467-48AE-44BB-9008-F39CAB898233}|CSIT321\\CSIT321.csproj|c:\\users\\avril\\onedrive\\documents\\asp.net\\identity login and register notes\\csit321\\models\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81D44467-48AE-44BB-9008-F39CAB898233}|CSIT321\\CSIT321.csproj|solutionrelative:csit321\\models\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81D44467-48AE-44BB-9008-F39CAB898233}|CSIT321\\CSIT321.csproj|c:\\users\\avril\\onedrive\\documents\\asp.net\\identity login and register notes\\csit321\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{81D44467-48AE-44BB-9008-F39CAB898233}|CSIT321\\CSIT321.csproj|solutionrelative:csit321\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{81D44467-48AE-44BB-9008-F39CAB898233}|CSIT321\\CSIT321.csproj|c:\\users\\avril\\source\\repos\\csit321\\csit321\\areas\\identity\\data\\userauthentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81D44467-48AE-44BB-9008-F39CAB898233}|CSIT321\\CSIT321.csproj|solutionrelative:csit321\\areas\\identity\\data\\userauthentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{81D44467-48AE-44BB-9008-F39CAB898233}|CSIT321\\CSIT321.csproj|c:\\users\\avril\\onedrive\\documents\\asp.net\\identity login and register notes\\csit321\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81D44467-48AE-44BB-9008-F39CAB898233}|CSIT321\\CSIT321.csproj|solutionrelative:csit321\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{81D44467-48AE-44BB-9008-F39CAB898233}|CSIT321\\CSIT321.csproj|c:\\users\\avril\\source\\repos\\csit321\\csit321\\areas\\identity\\data\\authenticationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81D44467-48AE-44BB-9008-F39CAB898233}|CSIT321\\CSIT321.csproj|solutionrelative:csit321\\areas\\identity\\data\\authenticationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{81D44467-48AE-44BB-9008-F39CAB898233}|CSIT321\\CSIT321.csproj|c:\\users\\avril\\onedrive\\documents\\asp.net\\identity login and register notes\\csit321\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{81D44467-48AE-44BB-9008-F39CAB898233}|CSIT321\\CSIT321.csproj|solutionrelative:csit321\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{81D44467-48AE-44BB-9008-F39CAB898233}|CSIT321\\CSIT321.csproj|c:\\users\\avril\\source\\repos\\csit321\\csit321\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{81D44467-48AE-44BB-9008-F39CAB898233}|CSIT321\\CSIT321.csproj|solutionrelative:csit321\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{81D44467-48AE-44BB-9008-F39CAB898233}|CSIT321\\CSIT321.csproj|c:\\users\\avril\\onedrive\\documents\\asp.net\\identity login and register notes\\csit321\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{81D44467-48AE-44BB-9008-F39CAB898233}|CSIT321\\CSIT321.csproj|solutionrelative:csit321\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{81D44467-48AE-44BB-9008-F39CAB898233}|CSIT321\\CSIT321.csproj|c:\\users\\avril\\source\\repos\\csit321\\csit321\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{81D44467-48AE-44BB-9008-F39CAB898233}|CSIT321\\CSIT321.csproj|c:\\users\\avril\\onedrive\\documents\\asp.net\\identity login and register notes\\csit321\\models\\notedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81D44467-48AE-44BB-9008-F39CAB898233}|CSIT321\\CSIT321.csproj|solutionrelative:csit321\\models\\notedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81D44467-48AE-44BB-9008-F39CAB898233}|CSIT321\\CSIT321.csproj|c:\\users\\avril\\onedrive\\documents\\asp.net\\identity login and register notes\\csit321\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{81D44467-48AE-44BB-9008-F39CAB898233}|CSIT321\\CSIT321.csproj|solutionrelative:csit321\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{81D44467-48AE-44BB-9008-F39CAB898233}|CSIT321\\CSIT321.csproj|c:\\users\\avril\\source\\repos\\csit321\\csit321\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{81D44467-48AE-44BB-9008-F39CAB898233}|CSIT321\\CSIT321.csproj|c:\\users\\avril\\onedrive\\documents\\asp.net\\identity login and register notes\\csit321\\areas\\identity\\pages\\_authlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{81D44467-48AE-44BB-9008-F39CAB898233}|CSIT321\\CSIT321.csproj|solutionrelative:csit321\\areas\\identity\\pages\\_authlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81D44467-48AE-44BB-9008-F39CAB898233}|CSIT321\\CSIT321.csproj|c:\\users\\avril\\onedrive\\documents\\asp.net\\identity login and register notes\\csit321\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81D44467-48AE-44BB-9008-F39CAB898233}|CSIT321\\CSIT321.csproj|solutionrelative:csit321\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81D44467-48AE-44BB-9008-F39CAB898233}|CSIT321\\CSIT321.csproj|c:\\users\\avril\\onedrive\\documents\\asp.net\\identity login and register notes\\csit321\\areas\\identity\\data\\userapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81D44467-48AE-44BB-9008-F39CAB898233}|CSIT321\\CSIT321.csproj|solutionrelative:csit321\\areas\\identity\\data\\userapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81D44467-48AE-44BB-9008-F39CAB898233}|CSIT321\\CSIT321.csproj|c:\\users\\avril\\onedrive\\documents\\asp.net\\identity login and register notes\\csit321\\migrations\\20240916082635_initial create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81D44467-48AE-44BB-9008-F39CAB898233}|CSIT321\\CSIT321.csproj|solutionrelative:csit321\\migrations\\20240916082635_initial create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81D44467-48AE-44BB-9008-F39CAB898233}|CSIT321\\CSIT321.csproj|c:\\users\\avril\\onedrive\\documents\\asp.net\\identity login and register notes\\csit321\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{81D44467-48AE-44BB-9008-F39CAB898233}|CSIT321\\CSIT321.csproj|solutionrelative:csit321\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81D44467-48AE-44BB-9008-F39CAB898233}|CSIT321\\CSIT321.csproj|c:\\users\\avril\\onedrive\\documents\\asp.net\\identity login and register notes\\csit321\\migrations\\authenticationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81D44467-48AE-44BB-9008-F39CAB898233}|CSIT321\\CSIT321.csproj|solutionrelative:csit321\\migrations\\authenticationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81D44467-48AE-44BB-9008-F39CAB898233}|CSIT321\\CSIT321.csproj|c:\\users\\avril\\onedrive\\documents\\asp.net\\identity login and register notes\\csit321\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{81D44467-48AE-44BB-9008-F39CAB898233}|CSIT321\\CSIT321.csproj|solutionrelative:csit321\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81D44467-48AE-44BB-9008-F39CAB898233}|CSIT321\\CSIT321.csproj|c:\\users\\avril\\onedrive\\documents\\asp.net\\identity login and register notes\\csit321\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{81D44467-48AE-44BB-9008-F39CAB898233}|CSIT321\\CSIT321.csproj|solutionrelative:csit321\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81D44467-48AE-44BB-9008-F39CAB898233}|CSIT321\\CSIT321.csproj|c:\\users\\avril\\onedrive\\documents\\asp.net\\identity login and register notes\\csit321\\areas\\identity\\data\\authenticationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81D44467-48AE-44BB-9008-F39CAB898233}|CSIT321\\CSIT321.csproj|solutionrelative:csit321\\areas\\identity\\data\\authenticationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81D44467-48AE-44BB-9008-F39CAB898233}|CSIT321\\CSIT321.csproj|c:\\users\\avril\\onedrive\\documents\\asp.net\\identity login and register notes\\csit321\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{81D44467-48AE-44BB-9008-F39CAB898233}|CSIT321\\CSIT321.csproj|solutionrelative:csit321\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81D44467-48AE-44BB-9008-F39CAB898233}|CSIT321\\CSIT321.csproj|c:\\users\\avril\\onedrive\\documents\\asp.net\\identity login and register notes\\csit321\\migrations\\notedb\\20240920054252_notedb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81D44467-48AE-44BB-9008-F39CAB898233}|CSIT321\\CSIT321.csproj|solutionrelative:csit321\\migrations\\notedb\\20240920054252_notedb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,124 +109,317 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Login.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\avril\\source\\repos\\CSIT321\\CSIT321\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
-              "RelativeDocumentMoniker": "CSIT321\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
-              "ToolTip": "C:\\Users\\avril\\source\\repos\\CSIT321\\CSIT321\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
-              "RelativeToolTip": "CSIT321\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
-              "ViewState": "AgIAAE8AAAAAAAAAAAAuwFgAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T03:26:54.57Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AuthenticationDBContext.cs",
-              "DocumentMoniker": "C:\\Users\\avril\\source\\repos\\CSIT321\\CSIT321\\Areas\\Identity\\Data\\AuthenticationDBContext.cs",
-              "RelativeDocumentMoniker": "CSIT321\\Areas\\Identity\\Data\\AuthenticationDBContext.cs",
-              "ToolTip": "C:\\Users\\avril\\source\\repos\\CSIT321\\CSIT321\\Areas\\Identity\\Data\\AuthenticationDBContext.cs",
-              "RelativeToolTip": "CSIT321\\Areas\\Identity\\Data\\AuthenticationDBContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T03:16:20.706Z",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\avril\\OneDrive\\Documents\\ASP.NET\\Identity Login and Register Notes\\CSIT321\\Views\\Note\\Index.cshtml",
+              "RelativeDocumentMoniker": "CSIT321\\Views\\Note\\Index.cshtml",
+              "ToolTip": "C:\\Users\\avril\\OneDrive\\Documents\\ASP.NET\\Identity Login and Register Notes\\CSIT321\\Views\\Note\\Index.cshtml",
+              "RelativeToolTip": "CSIT321\\Views\\Note\\Index.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-21T00:18:55.985Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "UserAuthentication.cs",
-              "DocumentMoniker": "C:\\Users\\avril\\source\\repos\\CSIT321\\CSIT321\\Areas\\Identity\\Data\\UserAuthentication.cs",
-              "RelativeDocumentMoniker": "CSIT321\\Areas\\Identity\\Data\\UserAuthentication.cs",
-              "ToolTip": "C:\\Users\\avril\\source\\repos\\CSIT321\\CSIT321\\Areas\\Identity\\Data\\UserAuthentication.cs",
-              "RelativeToolTip": "CSIT321\\Areas\\Identity\\Data\\UserAuthentication.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T03:13:56.532Z",
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\avril\\OneDrive\\Documents\\ASP.NET\\Identity Login and Register Notes\\CSIT321\\Views\\Note\\Details.cshtml",
+              "RelativeDocumentMoniker": "CSIT321\\Views\\Note\\Details.cshtml",
+              "ToolTip": "C:\\Users\\avril\\OneDrive\\Documents\\ASP.NET\\Identity Login and Register Notes\\CSIT321\\Views\\Note\\Details.cshtml",
+              "RelativeToolTip": "CSIT321\\Views\\Note\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-21T00:18:47.787Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Register.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\avril\\source\\repos\\CSIT321\\CSIT321\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
-              "RelativeDocumentMoniker": "CSIT321\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
-              "ToolTip": "C:\\Users\\avril\\source\\repos\\CSIT321\\CSIT321\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
-              "RelativeToolTip": "CSIT321\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
-              "ViewState": "AgIAAGgAAAAAAAAAAAAtwHYAAABGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-16T10:17:56.871Z",
+              "DocumentIndex": 5,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\avril\\OneDrive\\Documents\\ASP.NET\\Identity Login and Register Notes\\CSIT321\\Views\\Note\\Delete.cshtml",
+              "RelativeDocumentMoniker": "CSIT321\\Views\\Note\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\avril\\OneDrive\\Documents\\ASP.NET\\Identity Login and Register Notes\\CSIT321\\Views\\Note\\Delete.cshtml",
+              "RelativeToolTip": "CSIT321\\Views\\Note\\Delete.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-21T00:18:42.881Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "NoteDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\avril\\OneDrive\\Documents\\ASP.NET\\Identity Login and Register Notes\\CSIT321\\Models\\NoteDBContext.cs",
+              "RelativeDocumentMoniker": "CSIT321\\Models\\NoteDBContext.cs",
+              "ToolTip": "C:\\Users\\avril\\OneDrive\\Documents\\ASP.NET\\Identity Login and Register Notes\\CSIT321\\Models\\NoteDBContext.cs",
+              "RelativeToolTip": "CSIT321\\Models\\NoteDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T05:02:20.797Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\avril\\source\\repos\\CSIT321\\CSIT321\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "RelativeDocumentMoniker": "CSIT321\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "ToolTip": "C:\\Users\\avril\\source\\repos\\CSIT321\\CSIT321\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "RelativeToolTip": "CSIT321\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-15T15:01:38.82Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\avril\\source\\repos\\CSIT321\\CSIT321\\Program.cs",
-              "RelativeDocumentMoniker": "CSIT321\\Program.cs",
-              "ToolTip": "C:\\Users\\avril\\source\\repos\\CSIT321\\CSIT321\\Program.cs",
-              "RelativeToolTip": "CSIT321\\Program.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAABcAAAAbAAAAAAAAAA==",
+              "Title": "NoteController.cs",
+              "DocumentMoniker": "C:\\Users\\avril\\OneDrive\\Documents\\ASP.NET\\Identity Login and Register Notes\\CSIT321\\Controllers\\NoteController.cs",
+              "RelativeDocumentMoniker": "CSIT321\\Controllers\\NoteController.cs",
+              "ToolTip": "C:\\Users\\avril\\OneDrive\\Documents\\ASP.NET\\Identity Login and Register Notes\\CSIT321\\Controllers\\NoteController.cs",
+              "RelativeToolTip": "CSIT321\\Controllers\\NoteController.cs",
+              "ViewState": "AgIAAJMAAAAAAAAAAAAAAGMAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T13:16:16.725Z",
+              "WhenOpened": "2024-09-20T06:02:28.529Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\avril\\source\\repos\\CSIT321\\CSIT321\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "CSIT321\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\avril\\source\\repos\\CSIT321\\CSIT321\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "CSIT321\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABUAAAA7AAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\avril\\OneDrive\\Documents\\ASP.NET\\Identity Login and Register Notes\\CSIT321\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "CSIT321\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\avril\\OneDrive\\Documents\\ASP.NET\\Identity Login and Register Notes\\CSIT321\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "CSIT321\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-15T15:15:02.723Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-15T15:01:38.82Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\avril\\source\\repos\\CSIT321\\CSIT321\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "CSIT321\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\avril\\source\\repos\\CSIT321\\CSIT321\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "CSIT321\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAuwAoAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T13:22:42.069Z",
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\avril\\OneDrive\\Documents\\ASP.NET\\Identity Login and Register Notes\\CSIT321\\Views\\Note\\Edit.cshtml",
+              "RelativeDocumentMoniker": "CSIT321\\Views\\Note\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\avril\\OneDrive\\Documents\\ASP.NET\\Identity Login and Register Notes\\CSIT321\\Views\\Note\\Edit.cshtml",
+              "RelativeToolTip": "CSIT321\\Views\\Note\\Edit.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-20T16:08:46.612Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\avril\\OneDrive\\Documents\\ASP.NET\\Identity Login and Register Notes\\CSIT321\\Views\\Note\\Create.cshtml",
+              "RelativeDocumentMoniker": "CSIT321\\Views\\Note\\Create.cshtml",
+              "ToolTip": "C:\\Users\\avril\\OneDrive\\Documents\\ASP.NET\\Identity Login and Register Notes\\CSIT321\\Views\\Note\\Create.cshtml",
+              "RelativeToolTip": "CSIT321\\Views\\Note\\Create.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAQwBgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-20T12:58:35.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\avril\\OneDrive\\Documents\\ASP.NET\\Identity Login and Register Notes\\CSIT321\\Program.cs",
+              "RelativeDocumentMoniker": "CSIT321\\Program.cs",
+              "ToolTip": "C:\\Users\\avril\\OneDrive\\Documents\\ASP.NET\\Identity Login and Register Notes\\CSIT321\\Program.cs",
+              "RelativeToolTip": "CSIT321\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAoAAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T13:16:16.725Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "Note.cs",
+              "DocumentMoniker": "C:\\Users\\avril\\OneDrive\\Documents\\ASP.NET\\Identity Login and Register Notes\\CSIT321\\Models\\Note.cs",
+              "RelativeDocumentMoniker": "CSIT321\\Models\\Note.cs",
+              "ToolTip": "C:\\Users\\avril\\OneDrive\\Documents\\ASP.NET\\Identity Login and Register Notes\\CSIT321\\Models\\Note.cs",
+              "RelativeToolTip": "CSIT321\\Models\\Note.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwBMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T04:33:03.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\avril\\OneDrive\\Documents\\ASP.NET\\Identity Login and Register Notes\\CSIT321\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "CSIT321\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\avril\\OneDrive\\Documents\\ASP.NET\\Identity Login and Register Notes\\CSIT321\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "CSIT321\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAAAoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T13:22:42.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\avril\\OneDrive\\Documents\\ASP.NET\\Identity Login and Register Notes\\CSIT321\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "CSIT321\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\avril\\OneDrive\\Documents\\ASP.NET\\Identity Login and Register Notes\\CSIT321\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "CSIT321\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-20T02:40:58.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\avril\\OneDrive\\Documents\\ASP.NET\\Identity Login and Register Notes\\CSIT321\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "CSIT321\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\avril\\OneDrive\\Documents\\ASP.NET\\Identity Login and Register Notes\\CSIT321\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "CSIT321\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAmwIYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T03:26:54.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_AuthLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\avril\\OneDrive\\Documents\\ASP.NET\\Identity Login and Register Notes\\CSIT321\\Areas\\Identity\\Pages\\_AuthLayout.cshtml",
+              "RelativeDocumentMoniker": "CSIT321\\Areas\\Identity\\Pages\\_AuthLayout.cshtml",
+              "ToolTip": "C:\\Users\\avril\\OneDrive\\Documents\\ASP.NET\\Identity Login and Register Notes\\CSIT321\\Areas\\Identity\\Pages\\_AuthLayout.cshtml",
+              "RelativeToolTip": "CSIT321\\Areas\\Identity\\Pages\\_AuthLayout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-20T02:40:24.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\avril\\OneDrive\\Documents\\ASP.NET\\Identity Login and Register Notes\\CSIT321\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "CSIT321\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\avril\\OneDrive\\Documents\\ASP.NET\\Identity Login and Register Notes\\CSIT321\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "CSIT321\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAuwHEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T10:17:56.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserApplication.cs",
+              "DocumentMoniker": "C:\\Users\\avril\\OneDrive\\Documents\\ASP.NET\\Identity Login and Register Notes\\CSIT321\\Areas\\Identity\\Data\\UserApplication.cs",
+              "RelativeDocumentMoniker": "CSIT321\\Areas\\Identity\\Data\\UserApplication.cs",
+              "ToolTip": "C:\\Users\\avril\\OneDrive\\Documents\\ASP.NET\\Identity Login and Register Notes\\CSIT321\\Areas\\Identity\\Data\\UserApplication.cs",
+              "RelativeToolTip": "CSIT321\\Areas\\Identity\\Data\\UserApplication.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBEAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T03:13:56.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20240920054252_NoteDB.cs",
+              "DocumentMoniker": "C:\\Users\\avril\\OneDrive\\Documents\\ASP.NET\\Identity Login and Register Notes\\CSIT321\\Migrations\\NoteDB\\20240920054252_NoteDB.cs",
+              "RelativeDocumentMoniker": "CSIT321\\Migrations\\NoteDB\\20240920054252_NoteDB.cs",
+              "ToolTip": "C:\\Users\\avril\\OneDrive\\Documents\\ASP.NET\\Identity Login and Register Notes\\CSIT321\\Migrations\\NoteDB\\20240920054252_NoteDB.cs",
+              "RelativeToolTip": "CSIT321\\Migrations\\NoteDB\\20240920054252_NoteDB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T05:42:52.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20240916082635_Initial Create.cs",
+              "DocumentMoniker": "C:\\Users\\avril\\OneDrive\\Documents\\ASP.NET\\Identity Login and Register Notes\\CSIT321\\Migrations\\20240916082635_Initial Create.cs",
+              "RelativeDocumentMoniker": "CSIT321\\Migrations\\20240916082635_Initial Create.cs",
+              "ToolTip": "C:\\Users\\avril\\OneDrive\\Documents\\ASP.NET\\Identity Login and Register Notes\\CSIT321\\Migrations\\20240916082635_Initial Create.cs",
+              "RelativeToolTip": "CSIT321\\Migrations\\20240916082635_Initial Create.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T05:41:29.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\avril\\OneDrive\\Documents\\ASP.NET\\Identity Login and Register Notes\\CSIT321\\appsettings.json",
+              "RelativeDocumentMoniker": "CSIT321\\appsettings.json",
+              "ToolTip": "C:\\Users\\avril\\OneDrive\\Documents\\ASP.NET\\Identity Login and Register Notes\\CSIT321\\appsettings.json",
+              "RelativeToolTip": "CSIT321\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-20T05:17:47.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AuthenticationDBContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\avril\\OneDrive\\Documents\\ASP.NET\\Identity Login and Register Notes\\CSIT321\\Migrations\\AuthenticationDBContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "CSIT321\\Migrations\\AuthenticationDBContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\avril\\OneDrive\\Documents\\ASP.NET\\Identity Login and Register Notes\\CSIT321\\Migrations\\AuthenticationDBContextModelSnapshot.cs",
+              "RelativeToolTip": "CSIT321\\Migrations\\AuthenticationDBContextModelSnapshot.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T04:56:48.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\avril\\OneDrive\\Documents\\ASP.NET\\Identity Login and Register Notes\\CSIT321\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "CSIT321\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\avril\\OneDrive\\Documents\\ASP.NET\\Identity Login and Register Notes\\CSIT321\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "CSIT321\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-20T02:42:14.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\avril\\OneDrive\\Documents\\ASP.NET\\Identity Login and Register Notes\\CSIT321\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CSIT321\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\avril\\OneDrive\\Documents\\ASP.NET\\Identity Login and Register Notes\\CSIT321\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CSIT321\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-15T15:15:02.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AuthenticationDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\avril\\OneDrive\\Documents\\ASP.NET\\Identity Login and Register Notes\\CSIT321\\Areas\\Identity\\Data\\AuthenticationDBContext.cs",
+              "RelativeDocumentMoniker": "CSIT321\\Areas\\Identity\\Data\\AuthenticationDBContext.cs",
+              "ToolTip": "C:\\Users\\avril\\OneDrive\\Documents\\ASP.NET\\Identity Login and Register Notes\\CSIT321\\Areas\\Identity\\Data\\AuthenticationDBContext.cs",
+              "RelativeToolTip": "CSIT321\\Areas\\Identity\\Data\\AuthenticationDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T03:16:20.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAALkUAAAAAAAAAAAwwMgUAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-09-20T02:37:41.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\avril\\source\\repos\\CSIT321\\CSIT321\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\avril\\OneDrive\\Documents\\ASP.NET\\Identity Login and Register Notes\\CSIT321\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "CSIT321\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\avril\\source\\repos\\CSIT321\\CSIT321\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\avril\\OneDrive\\Documents\\ASP.NET\\Identity Login and Register Notes\\CSIT321\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "CSIT321\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-15T13:23:10.251Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-15T13:23:10.251Z"
             }
           ]
         }

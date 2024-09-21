@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\avril\\source\\repos\\CSIT321\\CSIT321\\CSIT321.csproj": {}
+    "C:\\Users\\avril\\OneDrive\\Documents\\ASP.NET\\Identity Login and Register Notes\\CSIT321\\CSIT321.csproj": {}
   },
   "projects": {
-    "C:\\Users\\avril\\source\\repos\\CSIT321\\CSIT321\\CSIT321.csproj": {
+    "C:\\Users\\avril\\OneDrive\\Documents\\ASP.NET\\Identity Login and Register Notes\\CSIT321\\CSIT321.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\avril\\source\\repos\\CSIT321\\CSIT321\\CSIT321.csproj",
+        "projectUniqueName": "C:\\Users\\avril\\OneDrive\\Documents\\ASP.NET\\Identity Login and Register Notes\\CSIT321\\CSIT321.csproj",
         "projectName": "CSIT321",
-        "projectPath": "C:\\Users\\avril\\source\\repos\\CSIT321\\CSIT321\\CSIT321.csproj",
+        "projectPath": "C:\\Users\\avril\\OneDrive\\Documents\\ASP.NET\\Identity Login and Register Notes\\CSIT321\\CSIT321.csproj",
         "packagesPath": "C:\\Users\\avril\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\avril\\source\\repos\\CSIT321\\CSIT321\\obj\\",
+        "outputPath": "C:\\Users\\avril\\OneDrive\\Documents\\ASP.NET\\Identity Login and Register Notes\\CSIT321\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\avril\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -51,6 +51,10 @@
               "version": "[8.0.8, )"
             },
             "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[8.0.8, )"
             },

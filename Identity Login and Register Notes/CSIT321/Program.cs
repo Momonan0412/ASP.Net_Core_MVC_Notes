@@ -2,14 +2,16 @@ using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using CSIT321.Data;
 using CSIT321.Areas.Identity.Data;
+using CSIT321.Models;
 var builder = WebApplication.CreateBuilder(args);
-var connectionString = builder.Configuration.GetConnectionString("AuthenticationDBContextConnection") ?? throw new InvalidOperationException("Connection string 'AuthenticationDBContextConnection' not found.");
+var AuthenticationDBContextConnection = builder.Configuration.GetConnectionString("AuthenticationDBContextConnection") ?? throw new InvalidOperationException("Connection string 'AuthenticationDBContextConnection' not found.");
+var NoteDBContextConnection = builder.Configuration.GetConnectionString("NoteDBContextConnection") ?? throw new InvalidOperationException("Connection string 'AuthenticationDBContextConnection' not found.");
 
-builder.Services.AddDbContext<AuthenticationDBContext>(options => options.UseSqlServer(connectionString));
-
+builder.Services.AddDbContext<AuthenticationDBContext>(options => options.UseSqlServer(AuthenticationDBContextConnection));
+builder.Services.AddDbContext<NoteDBContext>(options => options.UseSqlServer(NoteDBContextConnection));
 // builder.Services.AddDefaultIdentity<UserAuthentication>(options => options.SignIn.RequireConfirmedAccount = true).AddEntityFrameworkStores<AuthenticationDBContext>();
 // disable email configuration for a newly created account! true -> false
-builder.Services.AddDefaultIdentity<UserAuthentication>(options => options.SignIn.RequireConfirmedAccount = false).AddEntityFrameworkStores<AuthenticationDBContext>();
+builder.Services.AddDefaultIdentity<UserApplication>(options => options.SignIn.RequireConfirmedAccount = false).AddEntityFrameworkStores<AuthenticationDBContext>();
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();

@@ -1,0 +1,15 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-Identity Login and Register Notes",
+      "appliesTo": "/",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "task-CSIT321",
+      "appliesTo": "CSIT321/",
+      "type": "launch"
+    }
+  ]
+}
